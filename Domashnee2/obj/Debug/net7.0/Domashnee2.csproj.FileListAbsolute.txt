@@ -1,0 +1,30 @@
+D:\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.exe
+D:\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.deps.json
+D:\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.runtimeconfig.json
+D:\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.dll
+D:\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.pdb
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.csproj.AssemblyReference.cache
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.AssemblyInfoInputs.cache
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.AssemblyInfo.cs
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.csproj.CoreCompileInputs.cache
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.dll
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\refint\Domashnee2.dll
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.pdb
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.genruntimeconfig.cache
+D:\Domashneee2.1\Domashnee2\obj\Debug\net7.0\ref\Domashnee2.dll
+D:\Обучение С#\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.exe
+D:\Обучение С#\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.deps.json
+D:\Обучение С#\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.runtimeconfig.json
+D:\Обучение С#\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.dll
+D:\Обучение С#\Domashneee2.1\Domashnee2\bin\Debug\net7.0\Domashnee2.pdb
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.csproj.AssemblyReference.cache
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.AssemblyInfoInputs.cache
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.AssemblyInfo.cs
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.csproj.CoreCompileInputs.cache
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.dll
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\refint\Domashnee2.dll
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.pdb
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\Domashnee2.genruntimeconfig.cache
+D:\Обучение С#\Domashneee2.1\Domashnee2\obj\Debug\net7.0\ref\Domashnee2.dll

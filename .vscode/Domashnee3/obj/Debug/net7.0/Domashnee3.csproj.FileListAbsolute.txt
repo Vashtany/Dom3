@@ -1,0 +1,15 @@
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\bin\Debug\net7.0\Domashnee3.exe
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\bin\Debug\net7.0\Domashnee3.deps.json
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\bin\Debug\net7.0\Domashnee3.runtimeconfig.json
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\bin\Debug\net7.0\Domashnee3.dll
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\bin\Debug\net7.0\Domashnee3.pdb
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.csproj.AssemblyReference.cache
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.AssemblyInfoInputs.cache
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.AssemblyInfo.cs
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.csproj.CoreCompileInputs.cache
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.dll
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\refint\Domashnee3.dll
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.pdb
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\Domashnee3.genruntimeconfig.cache
+D:\Обучение С#\Domashneee2.1\.vscode\Domashnee3\obj\Debug\net7.0\ref\Domashnee3.dll
